@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mumzworld-logo.svg" alt="Mumzworld" width="220" />
+  <img src="./frontend/public/mumzworld-logo.svg" alt="Mumzworld" width="220" />
 </p>
 
 <h1 align="center">Returns Intelligence Console</h1>
@@ -15,6 +15,11 @@ Track A Submission — AI Engineering Intern
 > Brand assets used solely for internship prototype demonstration purposes.
 
 ---
+## Product Preview
+<p align="center">
+  <img src="./assets/screenshot.png" width="1000" />
+</p>
+<p align="center"><em>Live triage dashboard with AI-generated decisions</em></p>
 
 # Overview
 
