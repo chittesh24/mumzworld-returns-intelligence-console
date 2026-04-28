@@ -1,0 +1,70 @@
+# ========================
+# Root .gitignore
+# Mumzworld Returns Intelligence Console
+# ========================
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables / secrets
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+
+# FastAPI / local db
+*.sqlite3
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Uploads / generated assets
+uploads/
+screenshots/
+recordings/
+
+# Mac / Linux metadata
+.AppleDouble
+.LSOverride
