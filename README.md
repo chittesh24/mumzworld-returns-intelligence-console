@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mumzworld-logo.svg" alt="Mumzworld" width="220" />
+  <img src="./frontend/public/mumzworld-logo.svg" alt="Mumzworld" width="220" />
 </p>
 
 <h1 align="center">Returns Intelligence Console</h1>
